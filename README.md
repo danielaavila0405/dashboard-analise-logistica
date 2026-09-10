@@ -193,13 +193,13 @@ Foram utilizados:
 
 A página inicial apresenta os principais indicadores financeiros e análises de receita, custos, resultado e margem.
 
-![Análise de Custos](Análise-de-Custos.jpeg)
+![Análise de Custos](Analise-de-Custos.jpeg)
 
 ### Análise de entregas
 
 Visão dedicada ao acompanhamento da performance das entregas, incluindo OTIF, On Time, In Full, pedidos, ocorrências e Order Cycle.
 
-![Análise de Entregas](Análise-de-Entregas.jpeg)
+![Análise de Entregas](Analise-de-Entregas.jpeg)
 
 ### Análise hierárquica
 
@@ -213,11 +213,6 @@ Análise exploratória utilizando o recurso de Principais Influenciadores do Pow
 
 ![Principais Influenciadores](Principais-Influenciadores.jpeg)
 
-### Análise de margem por filial
-
-Comparação do percentual de margem entre as filiais analisadas.
-
-![Margem por Filial](Margem-por-Filial.jpeg)
 
 ---
 
