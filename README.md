@@ -193,26 +193,25 @@ Foram utilizados:
 
 A página inicial apresenta os principais indicadores financeiros e análises de receita, custos, resultado e margem.
 
-![Análise de Custos](Analise-de-Custos.jpeg)
+![Análise de Custos](Analise-de-Custos.jpeg.jpeg)
 
 ### Análise de entregas
 
 Visão dedicada ao acompanhamento da performance das entregas, incluindo OTIF, On Time, In Full, pedidos, ocorrências e Order Cycle.
 
-![Análise de Entregas](Analise-de-Entregas.jpeg)
+![Análise de Entregas](Analise-de-Entregas.jpeg.jpeg)
 
 ### Análise hierárquica
 
 Visualização para exploração dos dados por tipo de veículo e filial.
 
-![Análise Hierárquica](Hierarquia.jpeg)
+![Análise Hierárquica](Hierarquia.jpeg.jpeg)
 
 ### Principais influenciadores
 
 Análise exploratória utilizando o recurso de Principais Influenciadores do Power BI.
 
-![Principais Influenciadores](Principais-Influenciadores.jpeg)
-
+![Principais Influenciadores](Principais-Influenciadores.jpeg.jpeg)
 
 ---
 
