@@ -215,21 +215,40 @@ Análise exploratória utilizando o recurso de Principais Influenciadores do Pow
 
 ---
 
+## 📄 Relatório conclusivo
+
+Além do dashboard interativo, foi desenvolvido um relatório de análise com a interpretação dos principais indicadores, identificação dos fatores relacionados à queda da receita e análise do desempenho das filiais.
+
+O relatório apresenta:
+
+- análise da receita entre 2019 e 2021;
+- análise de custos e margem;
+- evolução do ticket médio;
+- análise da quilometragem percorrida;
+- análise do frete por km;
+- comparação entre filiais;
+- identificação de oportunidades de melhoria;
+- conclusões e recomendações.
+
+📥 **[Acessar o relatório conclusivo](Relatorio-analise-logistica.pdf)**
+
 ## Principais aprendizados
 
 O desenvolvimento deste projeto permitiu aplicar, na prática:
 
 - modelagem de dados no Power BI;
 - criação de medidas em DAX;
-- preparação de dados com Power Query;
+- preparação e transformação de dados com Power Query;
 - construção de KPIs;
 - criação de dashboards interativos;
 - análise de indicadores financeiros e operacionais;
+- análise de desempenho por filial;
 - criação de análises hierárquicas;
 - utilização de Tooltips;
 - utilização de Principais Influenciadores;
 - organização visual e aplicação de conceitos de UX;
-- criação de uma identidade visual para o dashboard.
+- criação de uma identidade visual para o dashboard;
+- interpretação dos dados para identificação de oportunidades de melhoria.
 
 ---
 
@@ -238,6 +257,8 @@ O desenvolvimento deste projeto permitiu aplicar, na prática:
 O projeto resultou em um dashboard interativo capaz de reunir indicadores financeiros e logísticos em diferentes perspectivas de análise.
 
 A solução permite explorar os dados por período, filial e tipo de veículo, facilitando a interpretação dos indicadores e a identificação de padrões e pontos de atenção na operação.
+
+A análise também permitiu identificar fatores relacionados à redução da receita e direcionar possíveis ações de melhoria, considerando indicadores como ticket médio, quilometragem percorrida e frete por km.
 
 ---
 
@@ -250,14 +271,17 @@ Possíveis evoluções do projeto:
 - aprofundar análises de causas de atraso;
 - desenvolver novos KPIs operacionais;
 - ampliar recursos de interação e navegação;
-- incorporar novas fontes de dados.
+- incorporar novas fontes de dados;
+- aprofundar o acompanhamento dos indicadores por filial.
 
 ---
 
 ## Sobre o projeto
 
-Este projeto foi desenvolvido durante minha formação em Power BI e representa uma das etapas da construção do meu portfólio profissional na área de Dados e Business Intelligence.
+Este projeto foi desenvolvido durante minha formação em Análise de Dados e Power BI e representa uma das etapas da construção do meu portfólio profissional na área de Dados e Business Intelligence.
+
+O projeto demonstra a aplicação prática de conceitos de **tratamento e modelagem de dados, DAX, Power Query, visualização de dados e análise de indicadores**, desde a construção do dashboard até a interpretação dos resultados e elaboração das conclusões.
 
 **Daniela Ávila**
 
-Em transição para tecnologia, com foco em **Dados, Business Intelligence, Automação e Inteligência Artificial**.
+Profissional em formação na área de **Dados, Business Intelligence, Automação e Inteligência Artificial**.
